@@ -1,4 +1,5 @@
 # Установка основного оформления отчетов 1С
+# [ПРОЕКТ ПЕРЕНЕСЕН В ЕДИНУЮ КОНФИГУРАЦИЮ ПРИМЕРОВ НОВЫХ ВОЗМОЖНОСТЕЙ ПЛАТФОРМЫ 1С](https://github.com/SeiOkami/ExamplesOneS)
 
 ![image](https://github.com/SeiOkami/ReportsAppearanceManagerOneS/assets/42138875/6b905955-711d-442c-9a99-748286c2bb56)
 
